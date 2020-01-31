@@ -1,6 +1,4 @@
-# A-Underlying principles
-
-The approach to all deteriorating or critically ill patients is the same. The underlying principles are:
+# The approach to all deteriorating or critically ill patients is the same. The underlying principles are:
 
 Use the Airway, Breathing, Circulation, Disability, Exposure (ABCDE) approach to assess and treat the patient.
 Do a complete initial assessment and re-assess regularly.
